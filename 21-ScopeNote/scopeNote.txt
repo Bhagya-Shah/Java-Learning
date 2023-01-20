@@ -1,0 +1,5 @@
+// /*21 Scope => 
+//  * Mathod scope => jaha define huva uske bad se we can access them
+//  * Block scope => {} ke bich me only access
+//  * Class scope => access modifier (public private protected)
+//  */

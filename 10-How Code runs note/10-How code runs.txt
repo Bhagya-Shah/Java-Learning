@@ -1,0 +1,3 @@
+// /*10.How our code runs*/
+// // Source code.java => Compiler => Byte code .class => JVM => Native code (Machine code) -> differnet for different machines
+// // --------------Comilation------------------------  || ----------------Execution--------------
