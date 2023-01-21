@@ -1,5 +1,5 @@
-backUp.class
-javaBasics.java
-javaBasics.class
-.vscode
-javaAssignment.java
+/backUp.class
+/javaBasics.java
+/javaBasics.class
+/.vscode
+/javaAssignment.java
